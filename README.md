@@ -19,8 +19,8 @@ This application allows you to filter the animals by different types and each an
 ## ✨ Features
 
 - Feature 1 Fetching raw dynamic JSON data from third party URL.
-- Feature 2 Responsive layout
+- Feature 2 Responsive layout.
 - Feature 3 Filtering by different animal type.
-- Feature 4 Image / colors change on mouse hower and clicks.
+- Feature 4 Image / colors change on mouse hover and clicks.
 
 
