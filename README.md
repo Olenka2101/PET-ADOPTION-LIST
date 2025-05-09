@@ -1,4 +1,4 @@
-# 🚀My Project Name
+# 🚀My Project Name // Pet Adoption application
 Pet Adoption application
 A responsive web app that helps users find a pet for an adoption. 
 This application allows you to filter the animals by different types and each animal has a photo and short description.
