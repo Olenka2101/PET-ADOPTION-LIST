@@ -10,7 +10,7 @@ This application allows you to filter the animals by different types and each an
   It also has filtering features where you can choose to search for #All Animals or #Only certain types.
   This type of website can be used for anything / you can adapt it and use it for movie search, recipes etc.
   
-  #technologies-used : 
+  #Technologies-used : 
   Javascript, HTML5, CSS.
 
 ## 🎬 Demo
