@@ -11,9 +11,9 @@ It includes robust filtering capabilities, allowing users to search by all anima
 The flexible design of the application makes it easily adaptable for various purposes beyond pet adoption, such as movie databases, recipe collections, or product catalogs.
   
   # 💻 Technologies used
-  Javascript,
-  HTML5,
-  CSS3.
+  ⭐Javascript
+  ⭐HTML5
+  ⭐CSS3
 
 # 🎬 Demo
 ![Screenshot 2025-05-09 162511](https://github.com/user-attachments/assets/d7fb88b4-6128-45f3-89e3-125eb6b0ace7)
