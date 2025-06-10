@@ -1,5 +1,5 @@
 # 🚀My Project Name // Pet Adoption application
-Pet Adoption Application
+Pet Adoption Application.
 A responsive web application designed to help users find pets available for adoption. 
 The app features intuitive filtering by animal type, and each pet listing includes a photo and a brief description to assist users in finding the perfect match.
 
